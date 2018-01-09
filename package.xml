@@ -12,6 +12,14 @@
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
+        <members>newsampleObj1__c-newsampleObj1 Layout</members>
+        <members>newsampleObj__c-newsampleObj Layout</members>
+        <members>org_obj_sample__c-org_obj_sample Layout</members>
+        <members>random_data_777__c-random_data_777 Layout</members>
+        <members>stdobjapi__c-stdobjlabel Layout</members>
+        <members>test__c-test Layout</members>
+        <members>trunkVariable__c-trunkVariable Layout</members>
+        <members>trunk_label__c-trunk_label Layout</members>
         <name>Layout</name>
     </types>
     <types>
